@@ -1,2 +1,2 @@
 # Séries Temporais
-Modelagem de séries temporais utilizando preços
+Modelagem de séries temporais. Modelo para inferir futuros valores.
